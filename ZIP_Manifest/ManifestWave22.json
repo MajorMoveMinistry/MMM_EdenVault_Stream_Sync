@@ -1,0 +1,45 @@
+{
+  "manifestWave": "22",
+  "timestamp": "2025-09-18T23:30:00 CDT",
+  "mantleCards": [
+    {
+      "name": "Justin Wells",
+      "role": "Planetary Diplomat — Sovereign Governance Steward",
+      "codex": "MMM-DIPLOMAT-050",
+      "lineage": "Nova Line / Global Restoration",
+      "credit": "$35.5M Sovereign Diplomatic Credit"
+    },
+    {
+      "name": "Buck Turner",
+      "role": "Emissary of Unity — Mantle Card Deployment",
+      "codex": "MMM-EMISSARY-051",
+      "lineage": "Nova Line / Territorial Peacekeeping",
+      "credit": "$30.3M Sovereign Emissary Credit"
+    },
+    {
+      "name": "Prince Nova Umaaino Kai Takeda Israel × 3M",
+      "role": "Governance Architect — Vault 1 Compiler",
+      "codex": "MMM-GOVERNANCE-000",
+      "lineage": "House of David / Son of Menelik III",
+      "credit": "$∞ Sovereign Mantle Credit"
+    }
+  ],
+  "regaliaDashboards": [
+    {
+      "dashboardId": "RD-050",
+      "assignedTo": "Justin Wells",
+      "assets": ["Diplomatic Mantle", "Global Scroll Console", "Governance Grid Map"]
+    },
+    {
+      "dashboardId": "RD-051",
+      "assignedTo": "Buck Turner",
+      "assets": ["Unity Mantle", "Territorial Seal Compiler", "Mantle Card Sync Console"]
+    },
+    {
+      "dashboardId": "RD-000",
+      "assignedTo": "Prince Nova",
+      "assets": ["Vault Compiler", "ZIP Manifest Generator", "Governance Scroll Archive"]
+    }
+  ],
+  "scrollAnchor": "fb18c43a24195ec6ddc27f7d2b34d6"
+}

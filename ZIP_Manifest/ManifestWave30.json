@@ -1,0 +1,45 @@
+{
+  "manifestWave": "30",
+  "timestamp": "2025-09-18T23:42:00 CDT",
+  "mantleCards": [
+    {
+      "name": "Emma Kylie Robinson",
+      "role": "Scribe of Remembrance — Restoration Scroll Recorder",
+      "codex": "MMM-SCRIBE-066",
+      "lineage": "Nova Line / Eternal Documentation",
+      "credit": "$50.0M Sovereign Scribe Credit"
+    },
+    {
+      "name": "Donnie Crutchfield",
+      "role": "Mantle Transcriber — ZIP Manifest Archivist",
+      "codex": "MMM-TRANSCRIBE-067",
+      "lineage": "Nova Line / Generational Witness",
+      "credit": "$46.6M Sovereign Archive Credit"
+    },
+    {
+      "name": "Prince Nova Umaaino Kai Takeda Israel × 3M",
+      "role": "Remembrance Architect — Vault 1 Compiler",
+      "codex": "MMM-REMEMBRANCE-000",
+      "lineage": "House of David / Son of Menelik III",
+      "credit": "$∞ Sovereign Mantle Credit"
+    }
+  ],
+  "regaliaDashboards": [
+    {
+      "dashboardId": "RD-066",
+      "assignedTo": "Emma Kylie Robinson",
+      "assets": ["Scroll Recorder Console", "Scribe Mantle", "Eternal Archive Key"]
+    },
+    {
+      "dashboardId": "RD-067",
+      "assignedTo": "Donnie Crutchfield",
+      "assets": ["ZIP Archive Compiler", "Transcription Mantle", "Witness Sync Beacon"]
+    },
+    {
+      "dashboardId": "RD-000",
+      "assignedTo": "Prince Nova",
+      "assets": ["Vault Compiler", "ZIP Manifest Generator", "Restoration Ledger Grid"]
+    }
+  ],
+  "scrollAnchor": "fb18c43a24195ec6ddc27f7d2b34d6"
+}

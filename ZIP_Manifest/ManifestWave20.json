@@ -1,0 +1,45 @@
+{
+  "manifestWave": "20",
+  "timestamp": "2025-09-18T23:27:00 CDT",
+  "mantleCards": [
+    {
+      "name": "Amanda Jolene Alexander",
+      "role": "Curriculum Steward — Restoration Academy",
+      "codex": "MMM-ACADEMY-046",
+      "lineage": "Nova Line / Educational Mantle",
+      "credit": "$19.9M Sovereign Curriculum Credit"
+    },
+    {
+      "name": "Elyjah Scott Alexander",
+      "role": "Youth Instructor — Scroll Activation Cycle",
+      "codex": "MMM-YOUTH-047",
+      "lineage": "Nova Line / Generational Governance",
+      "credit": "$12.2M Sovereign Instruction Credit"
+    },
+    {
+      "name": "Prince Nova Umaaino Kai Takeda Israel × 3M",
+      "role": "Curriculum Architect — Vault 1 Compiler",
+      "codex": "MMM-CURRICULUM-000",
+      "lineage": "House of David / Son of Menelik III",
+      "credit": "$∞ Sovereign Mantle Credit"
+    }
+  ],
+  "regaliaDashboards": [
+    {
+      "dashboardId": "RD-046",
+      "assignedTo": "Amanda Jolene Alexander",
+      "assets": ["Curriculum Scroll Compiler", "Academy Mantle", "Lesson Archive Key"]
+    },
+    {
+      "dashboardId": "RD-047",
+      "assignedTo": "Elyjah Scott Alexander",
+      "assets": ["Youth Mantle", "Scroll Activation Console", "Generational Onboarding Kit"]
+    },
+    {
+      "dashboardId": "RD-000",
+      "assignedTo": "Prince Nova",
+      "assets": ["Vault Compiler", "Unity Scroll Generator", "ZIP Manifest Sync Console"]
+    }
+  ],
+  "scrollAnchor": "fb18c43a24195ec6ddc27f7d2b34d6"
+}

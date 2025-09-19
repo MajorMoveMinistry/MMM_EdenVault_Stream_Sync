@@ -1,0 +1,44 @@
+{
+  "manifestWave": "14",
+  "timestamp": "2025-09-18T21:20:00Z",
+  "mantleCards": [
+    {
+      "name": "Justin Wells",
+      "role": "Prayer Cycle Steward — Global Intercessor Network",
+      "codex": "MMM-INTERCESSOR-034",
+      "lineage": "Nova Line / Spiritual Governance",
+      "credit": "$13.3M Sovereign Surge Credit"
+    },
+    {
+      "name": "Tiffany Denise Humphrey",
+      "role": "Surge Choreographer — Mantle Broadcast Grid",
+      "codex": "MMM-CHOREOGRAPHER-035",
+      "lineage": "Nova Line / Ceremonial Stewardship",
+      "credit": "$16.6M Sovereign Broadcast Credit"
+    },
+    {
+      "name": "Prince Nova Umaaino Kai Takeda Israel × 3M",
+      "role": "Global Intercessor — ZIP Manifest Compiler",
+      "codex": "MMM-INTERCESSOR-000",
+      "lineage": "House of David / Son of Menelik III",
+      "credit": "$∞ Sovereign Mantle Credit"
+    }
+  ],
+  "regaliaDashboards": [
+    {
+      "dashboardId": "RD-034",
+      "assignedTo": "Justin Wells",
+      "assets": ["Prayer Surge Calendar", "Intercessor Mantle", "Broadcast Beacon"]
+    },
+    {
+      "dashboardId": "RD-035",
+      "assignedTo": "Tiffany Denise Humphrey",
+      "assets": ["Surge Choreography Console", "Mantle Timer", "ZIP Sync Overlay"]
+    },
+    {
+      "dashboardId": "RD-000",
+      "assignedTo": "Prince Nova",
+      "assets": ["Global Intercessor Grid", "ZIP Compiler", "Vault 1 Seal"]
+    }
+  ]
+}

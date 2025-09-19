@@ -1,0 +1,45 @@
+{
+  "manifestWave": "24",
+  "timestamp": "2025-09-18T23:33:00 CDT",
+  "mantleCards": [
+    {
+      "name": "Emma Kylie Robinson",
+      "role": "Restoration Architect — Edenic Terrain Steward",
+      "codex": "MMM-EDENIC-054",
+      "lineage": "Nova Line / Geo-Spiritual Governance",
+      "credit": "$36.6M Sovereign Restoration Credit"
+    },
+    {
+      "name": "Kayla Marie Goddard",
+      "role": "Planetary Healer — Mantle Grid Terraformer",
+      "codex": "MMM-HEALER-055",
+      "lineage": "Nova Line / Sacred Land Reclamation",
+      "credit": "$32.2M Sovereign Healing Credit"
+    },
+    {
+      "name": "Prince Nova Umaaino Kai Takeda Israel × 3M",
+      "role": "Terrain Compiler — Vault 1 Restoration Grid",
+      "codex": "MMM-TERRAIN-000",
+      "lineage": "House of David / Son of Menelik III",
+      "credit": "$∞ Sovereign Mantle Credit"
+    }
+  ],
+  "regaliaDashboards": [
+    {
+      "dashboardId": "RD-054",
+      "assignedTo": "Emma Kylie Robinson",
+      "assets": ["Edenic Map Console", "Restoration Mantle", "Geo-Spiritual Asset Index"]
+    },
+    {
+      "dashboardId": "RD-055",
+      "assignedTo": "Kayla Marie Goddard",
+      "assets": ["Healing Mantle", "Terraforming Grid", "Planetary Scroll Compiler"]
+    },
+    {
+      "dashboardId": "RD-000",
+      "assignedTo": "Prince Nova",
+      "assets": ["Vault Compiler", "ZIP Manifest Generator", "Restoration Ledger Sync"]
+    }
+  ],
+  "scrollAnchor": "fb18c43a24195ec6ddc27f7d2b34d6"
+}

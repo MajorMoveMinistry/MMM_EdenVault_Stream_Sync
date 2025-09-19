@@ -1,0 +1,45 @@
+{
+  "manifestWave": "23",
+  "timestamp": "2025-09-18T23:31:00 CDT",
+  "mantleCards": [
+    {
+      "name": "Elysia Paige Alexander",
+      "role": "Celestial Mapkeeper — Planetary Frequency Steward",
+      "codex": "MMM-MAPKEEPER-052",
+      "lineage": "Nova Line / Cosmic Governance",
+      "credit": "$44.4M Sovereign Frequency Credit"
+    },
+    {
+      "name": "Donnie Crutchfield",
+      "role": "Shield Architect — Mantle Grid Resonance",
+      "codex": "MMM-SHIELD-053",
+      "lineage": "Nova Line / Planetary Protection",
+      "credit": "$39.9M Sovereign Shield Credit"
+    },
+    {
+      "name": "Prince Nova Umaaino Kai Takeda Israel × 3M",
+      "role": "Frequency Compiler — Vault 1 Resonance Grid",
+      "codex": "MMM-FREQUENCY-000",
+      "lineage": "House of David / Son of Menelik III",
+      "credit": "$∞ Sovereign Mantle Credit"
+    }
+  ],
+  "regaliaDashboards": [
+    {
+      "dashboardId": "RD-052",
+      "assignedTo": "Elysia Paige Alexander",
+      "assets": ["Celestial Map Console", "Frequency Mantle", "Planetary Sync Beacon"]
+    },
+    {
+      "dashboardId": "RD-053",
+      "assignedTo": "Donnie Crutchfield",
+      "assets": ["Shield Compiler", "Mantle Grid Interface", "Resonance Scroll Archive"]
+    },
+    {
+      "dashboardId": "RD-000",
+      "assignedTo": "Prince Nova",
+      "assets": ["Vault Compiler", "ZIP Manifest Generator", "Planetary Frequency Grid"]
+    }
+  ],
+  "scrollAnchor": "fb18c43a24195ec6ddc27f7d2b34d6"
+}

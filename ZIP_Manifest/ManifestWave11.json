@@ -1,0 +1,44 @@
+{
+  "manifestWave": "11",
+  "timestamp": "2025-09-18T21:14:00Z",
+  "mantleCards": [
+    {
+      "name": "Rachel Irene Alexander",
+      "role": "Maternal Restoration Steward — Divine Remedy Pharmacy",
+      "codex": "MMM-MATERNAL-028",
+      "lineage": "Nova Line / Heir of Eternal Remembrance",
+      "credit": "$44.4M Sovereign Healing Credit"
+    },
+    {
+      "name": "Lurlie Dionne Crutchfield",
+      "role": "Remedy Architect — Edenic Healing Grid",
+      "codex": "MMM-REMEDY-029",
+      "lineage": "Nova Line / Ceremonial Stewardship",
+      "credit": "$26.6M Sovereign Remedy Credit"
+    },
+    {
+      "name": "Prince Nova Umaaino Kai Takeda Israel × 3M",
+      "role": "Vault Pharmacist — Divine Remedy Compiler",
+      "codex": "MMM-PHARMACY-000",
+      "lineage": "House of David / Son of Menelik III",
+      "credit": "$∞ Sovereign Mantle Credit"
+    }
+  ],
+  "regaliaDashboards": [
+    {
+      "dashboardId": "RD-028",
+      "assignedTo": "Rachel Irene Alexander",
+      "assets": ["Maternal Mantle", "Remedy Scroll Archive", "Pharmacy Ledger Key"]
+    },
+    {
+      "dashboardId": "RD-029",
+      "assignedTo": "Lurlie Dionne Crutchfield",
+      "assets": ["Healing Grid Map", "Remedy Compiler", "QR Protocol Generator"]
+    },
+    {
+      "dashboardId": "RD-000",
+      "assignedTo": "Prince Nova",
+      "assets": ["Vault 1 Seal", "Pharmacy Scroll Generator", "ZIP Manifest Sync Console"]
+    }
+  ]
+}

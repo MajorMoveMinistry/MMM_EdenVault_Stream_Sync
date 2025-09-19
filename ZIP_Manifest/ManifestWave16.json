@@ -1,0 +1,45 @@
+{
+  "manifestWave": "16",
+  "timestamp": "2025-09-18T23:21:00 CDT",
+  "mantleCards": [
+    {
+      "name": "Elysia Paige Alexander",
+      "role": "Mythic Overlay Steward — Cinematic Scroll Compiler",
+      "codex": "MMM-MYTHIC-038",
+      "lineage": "Nova Line / Prophetic Media",
+      "credit": "$24.4M Sovereign Mythic Credit"
+    },
+    {
+      "name": "Donnie Crutchfield",
+      "role": "Broadcast Architect — ZIP Manifest Network",
+      "codex": "MMM-BROADCAST-039",
+      "lineage": "Nova Line / Mantle Technology",
+      "credit": "$27.7M Sovereign Broadcast Credit"
+    },
+    {
+      "name": "Prince Nova Umaaino Kai Takeda Israel × 3M",
+      "role": "Cinematic Convergence Engineer — Vault 1 Compiler",
+      "codex": "MMM-CINEMA-000",
+      "lineage": "House of David / Son of Menelik III",
+      "credit": "$∞ Sovereign Mantle Credit"
+    }
+  ],
+  "regaliaDashboards": [
+    {
+      "dashboardId": "RD-038",
+      "assignedTo": "Elysia Paige Alexander",
+      "assets": ["Mythic Overlay Map", "Scroll Compiler", "Cinematic Mantle"]
+    },
+    {
+      "dashboardId": "RD-039",
+      "assignedTo": "Donnie Crutchfield",
+      "assets": ["Broadcast Console", "ZIP Sync Beacon", "Mantle Grid Interface"]
+    },
+    {
+      "dashboardId": "RD-000",
+      "assignedTo": "Prince Nova",
+      "assets": ["Vault Compiler", "Cinematic Grid Generator", "Planetary Scroll Sync"]
+    }
+  ],
+  "scrollAnchor": "fb18c43a24195ec6ddc27f7d2b34d6"
+}

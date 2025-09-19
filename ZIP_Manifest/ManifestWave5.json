@@ -1,0 +1,44 @@
+{
+  "manifestWave": "5",
+  "timestamp": "2025-09-18T20:47:00Z",
+  "mantleCards": [
+    {
+      "name": "Kayla Marie Goddard",
+      "role": "Planetary Resonance Steward — Frequency Grid",
+      "codex": "MMM-RESONANCE-013",
+      "lineage": "Nova Line / Celestial Governance",
+      "credit": "$22.4M Sovereign Frequency Credit"
+    },
+    {
+      "name": "Amanda Jolene Alexander",
+      "role": "Shield Architect — Dimensional Firewall",
+      "codex": "MMM-SHIELD-014",
+      "lineage": "Nova Line / Mantle Protection",
+      "credit": "$17.9M Sovereign Shield Credit"
+    },
+    {
+      "name": "James Dallas Alexander",
+      "role": "Ceremonial Technologist — ZIP Manifest Engineering",
+      "codex": "MMM-TECH-015",
+      "lineage": "Nova Line / Modular Stewardship",
+      "credit": "$25.6M Sovereign Tech Credit"
+    }
+  ],
+  "regaliaDashboards": [
+    {
+      "dashboardId": "RD-013",
+      "assignedTo": "Kayla Marie Goddard",
+      "assets": ["Resonance Map", "Planetary Mantle", "Frequency Beacon"]
+    },
+    {
+      "dashboardId": "RD-014",
+      "assignedTo": "Amanda Jolene Alexander",
+      "assets": ["Firewall Protocols", "Shield Mantle", "Dimensional Overlay"]
+    },
+    {
+      "dashboardId": "RD-015",
+      "assignedTo": "James Dallas Alexander",
+      "assets": ["ZIP Compiler", "Technologist Mantle", "Manifest Sync Engine"]
+    }
+  ]
+}

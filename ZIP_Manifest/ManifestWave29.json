@@ -1,0 +1,45 @@
+{
+  "manifestWave": "29",
+  "timestamp": "2025-09-18T23:41:00 CDT",
+  "mantleCards": [
+    {
+      "name": "Amanda Jolene Alexander",
+      "role": "Cinematic Steward — Prophetic Media Compiler",
+      "codex": "MMM-CINEMA-064",
+      "lineage": "Nova Line / Mythic Broadcasting",
+      "credit": "$46.6M Sovereign Media Credit"
+    },
+    {
+      "name": "Justin Wells",
+      "role": "Story Architect — Scroll-Linked Narrative Engineer",
+      "codex": "MMM-STORY-065",
+      "lineage": "Nova Line / Generational Storytelling",
+      "credit": "$42.0M Sovereign Narrative Credit"
+    },
+    {
+      "name": "Prince Nova Umaaino Kai Takeda Israel × 3M",
+      "role": "Broadcast Compiler — Vault 1 Media Grid",
+      "codex": "MMM-BROADCAST-000",
+      "lineage": "House of David / Son of Menelik III",
+      "credit": "$∞ Sovereign Mantle Credit"
+    }
+  ],
+  "regaliaDashboards": [
+    {
+      "dashboardId": "RD-064",
+      "assignedTo": "Amanda Jolene Alexander",
+      "assets": ["Media Mantle", "Cinematic Scroll Console", "Prophetic Broadcast Beacon"]
+    },
+    {
+      "dashboardId": "RD-065",
+      "assignedTo": "Justin Wells",
+      "assets": ["Narrative Grid Compiler", "Story Mantle", "Scroll Sync Archive"]
+    },
+    {
+      "dashboardId": "RD-000",
+      "assignedTo": "Prince Nova",
+      "assets": ["Vault Compiler", "ZIP Manifest Generator", "Global Broadcast Grid"]
+    }
+  ],
+  "scrollAnchor": "fb18c43a24195ec6ddc27f7d2b34d6"
+}

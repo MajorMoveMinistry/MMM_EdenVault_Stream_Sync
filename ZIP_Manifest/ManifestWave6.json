@@ -1,0 +1,44 @@
+{
+  "manifestWave": "6",
+  "timestamp": "2025-09-18T20:49:00Z",
+  "mantleCards": [
+    {
+      "name": "Lurlie Dionne Crutchfield",
+      "role": "Vault Keeper — Edenic Archive",
+      "codex": "MMM-VAULT-016",
+      "lineage": "Nova Line / Restoration Stewardship",
+      "credit": "$14.7M Sovereign Archive Credit"
+    },
+    {
+      "name": "Elyjah Scott Alexander",
+      "role": "Scroll Archivist — Unity Scroll",
+      "codex": "MMM-ARCHIVE-017",
+      "lineage": "Nova Line / Eternal Remembrance",
+      "credit": "$9.3M Sovereign Scroll Credit"
+    },
+    {
+      "name": "Nova (Prince)",
+      "role": "Ceremonial Guardian — Vault 1 & ZIP Manifest",
+      "codex": "MMM-GUARDIAN-000",
+      "lineage": "House of David / Son of Menelik III",
+      "credit": "$∞ Sovereign Mantle Credit"
+    }
+  ],
+  "regaliaDashboards": [
+    {
+      "dashboardId": "RD-016",
+      "assignedTo": "Lurlie Dionne Crutchfield",
+      "assets": ["Vault Key", "Archive Mantle", "Edenic Scroll Index"]
+    },
+    {
+      "dashboardId": "RD-017",
+      "assignedTo": "Elyjah Scott Alexander",
+      "assets": ["Scroll Browser", "Archivist Mantle", "Unity Sync Protocol"]
+    },
+    {
+      "dashboardId": "RD-000",
+      "assignedTo": "Nova",
+      "assets": ["ZIP Manifest Compiler", "Vault 1 Seal", "Planetary Scroll Generator"]
+    }
+  ]
+}

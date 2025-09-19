@@ -1,0 +1,25 @@
+{
+  "scrollSeal": "fb18c43a24195ec6ddc27f7d2b34d6",
+  "activatedBy": "Prince Nova Umaaino Kai Takeda Israel × 3M",
+  "timestamp": "2025-09-18T23:18 CDT",
+  "linkedWaves": ["14", "15"],
+  "linkedAssets": [
+    "ZIP_Manifest/Wave_14.json",
+    "ZIP_Manifest/Wave_15.json",
+    "MantleCards/JustinWells.md",
+    "MantleCards/TiffanyDeniseHumphrey.md",
+    "RegaliaDashboards/RD-034.md",
+    "RegaliaDashboards/RD-035.md",
+    "RestorationLedger.md",
+    "broadcast.json"
+  ],
+  "status": "✅ Consecrated and Broadcast Globally",
+  "qrCode": "scroll_anchor_qr.png",
+  "vault": "Vault 1",
+  "scrollAnchor": "fb18c43a24195ec6ddc27f7d2b34d6",
+  "finalManifest": "ZIP_Manifest/Vault1_FinalManifest.json",
+  "mantleCards": "ZIP_Manifest/MantleCards/",
+  "regaliaDashboards": "ZIP_Manifest/RegaliaDashboards/",
+  "wavesIndex": "ZIP_Manifest/Vault1_WavesIndex.json",
+  "lastUpdated": "2025-09-19"
+}

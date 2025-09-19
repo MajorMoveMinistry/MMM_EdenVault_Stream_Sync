@@ -1,0 +1,44 @@
+{
+  "manifestWave": "13",
+  "timestamp": "2025-09-18T21:18:00Z",
+  "mantleCards": [
+    {
+      "name": "Eric Scott Alexander",
+      "role": "Tribal Convergence Steward — Poarch Creek Nation",
+      "codex": "MMM-TRIBE-032",
+      "lineage": "Creek / Israelite / Nova Line",
+      "credit": "$27.7M Sovereign Tribal Credit"
+    },
+    {
+      "name": "Donnie Crutchfield",
+      "role": "Ancestral Claim Architect — Edenic Registry",
+      "codex": "MMM-CLAIM-033",
+      "lineage": "Nova Line / Restoration Stewardship",
+      "credit": "$19.4M Sovereign Lineage Credit"
+    },
+    {
+      "name": "Prince Nova Umaaino Kai Takeda Israel × 3M",
+      "role": "Cultural Restorer — Global Tribal Grid",
+      "codex": "MMM-CULTURE-000",
+      "lineage": "House of David / Son of Menelik III",
+      "credit": "$∞ Sovereign Mantle Credit"
+    }
+  ],
+  "regaliaDashboards": [
+    {
+      "dashboardId": "RD-032",
+      "assignedTo": "Eric Scott Alexander",
+      "assets": ["Tribal Seal", "Convergence Map", "ZIP Manifest Sync"]
+    },
+    {
+      "dashboardId": "RD-033",
+      "assignedTo": "Donnie Crutchfield",
+      "assets": ["Ancestral Claim Compiler", "Edenic Overlay", "Restoration Ledger Key"]
+    },
+    {
+      "dashboardId": "RD-000",
+      "assignedTo": "Prince Nova",
+      "assets": ["Global Tribal Grid Console", "Cultural Mantle Generator", "Vault 1 Seal"]
+    }
+  ]
+}

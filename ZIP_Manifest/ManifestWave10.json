@@ -1,0 +1,44 @@
+{
+  "manifestWave": "10",
+  "timestamp": "2025-09-18T21:12:00Z",
+  "mantleCards": [
+    {
+      "name": "Kayla Marie Goddard",
+      "role": "Celestial Cartographer — Edenic Star Registry",
+      "codex": "MMM-CELESTIAL-026",
+      "lineage": "Nova Line / Astral Stewardship",
+      "credit": "$21.1M Sovereign Star Credit"
+    },
+    {
+      "name": "Amanda Jolene Alexander",
+      "role": "Cosmic Archivist — Vault of Constellations",
+      "codex": "MMM-COSMIC-027",
+      "lineage": "Nova Line / Eternal Remembrance",
+      "credit": "$18.4M Sovereign Archive Credit"
+    },
+    {
+      "name": "Prince Nova Umaaino Kai Takeda Israel × 3M",
+      "role": "Mantle Astronomer — Galactic Scroll Compiler",
+      "codex": "MMM-ASTRONOMER-000",
+      "lineage": "House of David / Son of Menelik III",
+      "credit": "$∞ Sovereign Celestial Credit"
+    }
+  ],
+  "regaliaDashboards": [
+    {
+      "dashboardId": "RD-026",
+      "assignedTo": "Kayla Marie Goddard",
+      "assets": ["Star Map Overlay", "Celestial Mantle", "Edenic Constellation Key"]
+    },
+    {
+      "dashboardId": "RD-027",
+      "assignedTo": "Amanda Jolene Alexander",
+      "assets": ["Vault of Constellations", "Cosmic Scroll Archive", "Remembrance Beacon"]
+    },
+    {
+      "dashboardId": "RD-000",
+      "assignedTo": "Prince Nova",
+      "assets": ["Galactic Compiler", "ZIP Manifest Generator", "Planetary Scroll Console"]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "manifestWave": "17",
+  "timestamp": "2025-09-18T23:23:00 CDT",
+  "mantleCards": [
+    {
+      "name": "Lurlie Dionne Crutchfield",
+      "role": "Vault Keeper — Edenic Asset Guardian",
+      "codex": "MMM-VAULT-040",
+      "lineage": "Nova Line / Eternal Stewardship",
+      "credit": "$33.3M Sovereign Vault Credit"
+    },
+    {
+      "name": "Emma Kylie Robinson",
+      "role": "Scroll Archivist — Restoration Index Compiler",
+      "codex": "MMM-ARCHIVIST-041",
+      "lineage": "Nova Line / Generational Remembrance",
+      "credit": "$21.7M Sovereign Archive Credit"
+    },
+    {
+      "name": "Prince Nova Umaaino Kai Takeda Israel × 3M",
+      "role": "Asset Guardian — Vault 1 Compiler",
+      "codex": "MMM-GUARDIAN-000",
+      "lineage": "House of David / Son of Menelik III",
+      "credit": "$∞ Sovereign Mantle Credit"
+    }
+  ],
+  "regaliaDashboards": [
+    {
+      "dashboardId": "RD-040",
+      "assignedTo": "Lurlie Dionne Crutchfield",
+      "assets": ["Edenic Vault Key", "Asset Ledger Console", "Mantle Seal Compiler"]
+    },
+    {
+      "dashboardId": "RD-041",
+      "assignedTo": "Emma Kylie Robinson",
+      "assets": ["Scroll Index Generator", "Archive Mantle", "Restoration Sync Console"]
+    },
+    {
+      "dashboardId": "RD-000",
+      "assignedTo": "Prince Nova",
+      "assets": ["Vault Compiler", "ZIP Sync Console", "Unity Scroll Generator"]
+    }
+  ],
+  "scrollAnchor": "fb18c43a24195ec6ddc27f7d2b34d6"
+}

@@ -1,0 +1,44 @@
+{
+  "manifestWave": "2",
+  "timestamp": "2025-09-18T20:41:00Z",
+  "mantleCards": [
+    {
+      "name": "Amari Wells",
+      "role": "Youth Heir — Restoration Academy",
+      "codex": "MMM-YOUTH-004",
+      "lineage": "Nova Line / Educational Stewardship",
+      "credit": "$4.2M Sovereign Credit Cascade"
+    },
+    {
+      "name": "Tiffany Denise Humphrey",
+      "role": "Healing Steward — Divine Remedy Dispensary",
+      "codex": "MMM-HEALER-005",
+      "lineage": "Tribal / Nova Line",
+      "credit": "$7.6M Sovereign Credit Cascade"
+    },
+    {
+      "name": "Justin Wells",
+      "role": "Intercessor — Global Prayer Network",
+      "codex": "MMM-INTERCESSOR-006",
+      "lineage": "Nova Line / Spiritual Governance",
+      "credit": "$5.9M Sovereign Credit Cascade"
+    }
+  ],
+  "regaliaDashboards": [
+    {
+      "dashboardId": "RD-004",
+      "assignedTo": "Amari Wells",
+      "assets": ["Curriculum Scroll", "Youth Mantle", "Academy Seal"]
+    },
+    {
+      "dashboardId": "RD-005",
+      "assignedTo": "Tiffany Denise Humphrey",
+      "assets": ["Remedy Vault Key", "Healing Mantle", "QR Protocol Generator"]
+    },
+    {
+      "dashboardId": "RD-006",
+      "assignedTo": "Justin Wells",
+      "assets": ["Prayer Surge Calendar", "Intercessor Mantle", "Broadcast Beacon"]
+    }
+  ]
+}

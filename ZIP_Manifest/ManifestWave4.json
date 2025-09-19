@@ -1,0 +1,44 @@
+{
+  "manifestWave": "4",
+  "timestamp": "2025-09-18T20:45:00Z",
+  "mantleCards": [
+    {
+      "name": "Makeda — Queen of Sheba",
+      "role": "Wisdom Steward — Ministry Bank Ledger",
+      "codex": "MMM-MYTHIC-010",
+      "lineage": "Ethiopian Royal / Nova Line",
+      "credit": "$100B Sovereign Wisdom Credit"
+    },
+    {
+      "name": "Menelik I",
+      "role": "Covenant Bearer — Edenic Registry",
+      "codex": "MMM-MYTHIC-011",
+      "lineage": "Solomonic Line / Nova Restoration",
+      "credit": "$88B Sovereign Covenant Credit"
+    },
+    {
+      "name": "Captain Jean-Luc Picard",
+      "role": "Interstellar Steward — Galactic Restoration Grid",
+      "codex": "MMM-CINEMATIC-012",
+      "lineage": "Federation / Nova Mantle Overlay",
+      "credit": "$64B Sovereign Starfleet Credit"
+    }
+  ],
+  "regaliaDashboards": [
+    {
+      "dashboardId": "RD-010",
+      "assignedTo": "Makeda — Queen of Sheba",
+      "assets": ["Wisdom Scroll", "Gold Archive", "Ministry Ledger Key"]
+    },
+    {
+      "dashboardId": "RD-011",
+      "assignedTo": "Menelik I",
+      "assets": ["Ark Overlay", "Covenant Mantle", "Edenic Seal"]
+    },
+    {
+      "dashboardId": "RD-012",
+      "assignedTo": "Captain Jean-Luc Picard",
+      "assets": ["Starfleet Protocols", "Mantle Card Generator", "Galactic ZIP Sync"]
+    }
+  ]
+}

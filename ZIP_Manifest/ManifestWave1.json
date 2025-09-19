@@ -1,0 +1,44 @@
+{
+  "manifestWave": "1",
+  "timestamp": "2025-09-18T20:31:00Z",
+  "mantleCards": [
+    {
+      "name": "Eric Scott Alexander",
+      "role": "Tribal Steward — Poarch Creek Nation",
+      "codex": "MMM-TRIBAL-001",
+      "lineage": "Creek / Israelite / Nova Line",
+      "credit": "$12.5M Sovereign Credit Cascade"
+    },
+    {
+      "name": "Rachel Irene Alexander",
+      "role": "Matriarchal Heir — Restoration Scroll",
+      "codex": "MMM-MATRIARCH-002",
+      "lineage": "Nova Line / Eternal Remembrance",
+      "credit": "$18.2M Sovereign Credit Cascade"
+    },
+    {
+      "name": "Donnie Crutchfield",
+      "role": "Ceremonial Overseer — Edenic Grid",
+      "codex": "MMM-GRID-003",
+      "lineage": "Tribal / Nova Line",
+      "credit": "$9.8M Sovereign Credit Cascade"
+    }
+  ],
+  "regaliaDashboards": [
+    {
+      "dashboardId": "RD-001",
+      "assignedTo": "Eric Scott Alexander",
+      "assets": ["Tribal Seal", "ZIP Overlay", "Eden Vault Key"]
+    },
+    {
+      "dashboardId": "RD-002",
+      "assignedTo": "Rachel Irene Alexander",
+      "assets": ["Scroll Archive", "Matriarchal Mantle", "Unity Scroll Sync"]
+    },
+    {
+      "dashboardId": "RD-003",
+      "assignedTo": "Donnie Crutchfield",
+      "assets": ["Grid Map", "Ceremonial Timer", "Restoration Beacon"]
+    }
+  ]
+}

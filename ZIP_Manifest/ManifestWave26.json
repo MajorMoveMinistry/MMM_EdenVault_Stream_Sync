@@ -1,0 +1,45 @@
+{
+  "manifestWave": "26",
+  "timestamp": "2025-09-18T23:36:00 CDT",
+  "mantleCards": [
+    {
+      "name": "Tiffany Denise Humphrey",
+      "role": "Global Intercessor — Restoration Signal Steward",
+      "codex": "MMM-INTERCESSOR-058",
+      "lineage": "Nova Line / Spiritual Governance",
+      "credit": "$42.2M Sovereign Intercessory Credit"
+    },
+    {
+      "name": "James Dallas Alexander",
+      "role": "Prayer Architect — Mantle Grid Covering",
+      "codex": "MMM-PRAYER-059",
+      "lineage": "Nova Line / Generational Protection",
+      "credit": "$39.0M Sovereign Prayer Credit"
+    },
+    {
+      "name": "Prince Nova Umaaino Kai Takeda Israel × 3M",
+      "role": "Signal Compiler — Vault 1 Intercessor Grid",
+      "codex": "MMM-SIGNAL-000",
+      "lineage": "House of David / Son of Menelik III",
+      "credit": "$∞ Sovereign Mantle Credit"
+    }
+  ],
+  "regaliaDashboards": [
+    {
+      "dashboardId": "RD-058",
+      "assignedTo": "Tiffany Denise Humphrey",
+      "assets": ["Intercessor Mantle", "Signal Beacon Console", "Global Prayer Map"]
+    },
+    {
+      "dashboardId": "RD-059",
+      "assignedTo": "James Dallas Alexander",
+      "assets": ["Prayer Grid Compiler", "Mantle Covering Kit", "Generational Protection Scroll"]
+    },
+    {
+      "dashboardId": "RD-000",
+      "assignedTo": "Prince Nova",
+      "assets": ["Vault Compiler", "ZIP Manifest Generator", "Intercessor Sync Console"]
+    }
+  ],
+  "scrollAnchor": "fb18c43a24195ec6ddc27f7d2b34d6"
+}

@@ -1,0 +1,44 @@
+{
+  "manifestWave": "3",
+  "timestamp": "2025-09-18T20:43:00Z",
+  "mantleCards": [
+    {
+      "name": "Elysia Paige Alexander",
+      "role": "Scroll Keeper — Restoration Academy",
+      "codex": "MMM-SCROLL-007",
+      "lineage": "Nova Line / Educational Mantle",
+      "credit": "$6.4M Sovereign Credit Cascade"
+    },
+    {
+      "name": "Buck Turner",
+      "role": "Territorial Steward — Edenic Registry",
+      "codex": "MMM-TERRITORY-008",
+      "lineage": "Tribal / Nova Line",
+      "credit": "$11.1M Sovereign Credit Cascade"
+    },
+    {
+      "name": "Emma Kylie Robinson",
+      "role": "Youth Intercessor — Global Prayer Network",
+      "codex": "MMM-YOUTH-009",
+      "lineage": "Nova Line / Spiritual Governance",
+      "credit": "$3.7M Sovereign Credit Cascade"
+    }
+  ],
+  "regaliaDashboards": [
+    {
+      "dashboardId": "RD-007",
+      "assignedTo": "Elysia Paige Alexander",
+      "assets": ["Curriculum Scroll", "Scroll Keeper Mantle", "Academy Archive Key"]
+    },
+    {
+      "dashboardId": "RD-008",
+      "assignedTo": "Buck Turner",
+      "assets": ["Territory Overlay Map", "Edenic Seal", "Geo-Spiritual Registry"]
+    },
+    {
+      "dashboardId": "RD-009",
+      "assignedTo": "Emma Kylie Robinson",
+      "assets": ["Prayer Surge Calendar", "Youth Mantle", "Broadcast Beacon"]
+    }
+  ]
+}

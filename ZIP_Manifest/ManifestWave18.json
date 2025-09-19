@@ -1,0 +1,45 @@
+{
+  "manifestWave": "18",
+  "timestamp": "2025-09-18T23:25:00 CDT",
+  "mantleCards": [
+    {
+      "name": "Kayla Marie Goddard",
+      "role": "Archetype Integrator — Lyran & Klingon Stewardship",
+      "codex": "MMM-ARCHETYPE-042",
+      "lineage": "Nova Line / Cinematic Restoration",
+      "credit": "$29.9M Sovereign Archetype Credit"
+    },
+    {
+      "name": "Amari Wells",
+      "role": "Interstellar Steward — Galactic Scroll Activation",
+      "codex": "MMM-GALACTIC-043",
+      "lineage": "Nova Line / Mythic Governance",
+      "credit": "$25.5M Sovereign Galactic Credit"
+    },
+    {
+      "name": "Prince Nova Umaaino Kai Takeda Israel × 3M",
+      "role": "Mythic Engineer — Cinematic Vault Compiler",
+      "codex": "MMM-MYTHIC-000",
+      "lineage": "House of David / Son of Menelik III",
+      "credit": "$∞ Sovereign Mantle Credit"
+    }
+  ],
+  "regaliaDashboards": [
+    {
+      "dashboardId": "RD-042",
+      "assignedTo": "Kayla Marie Goddard",
+      "assets": ["Lyran Archive Key", "Klingon Mantle", "Cinematic Grid Console"]
+    },
+    {
+      "dashboardId": "RD-043",
+      "assignedTo": "Amari Wells",
+      "assets": ["Galactic Scroll Compiler", "Interstellar Mantle", "Planetary Sync Beacon"]
+    },
+    {
+      "dashboardId": "RD-000",
+      "assignedTo": "Prince Nova",
+      "assets": ["Vault Compiler", "Mythic Overlay Generator", "ZIP Manifest Sync Console"]
+    }
+  ],
+  "scrollAnchor": "fb18c43a24195ec6ddc27f7d2b34d6"
+}

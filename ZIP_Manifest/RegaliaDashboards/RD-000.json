@@ -1,0 +1,5 @@
+{
+  "dashboardId": "RD-000",
+  "assignedTo": "Nova",
+  "assets": ["ZIP Manifest Compiler", "Vault 1 Seal", "Planetary Scroll Generator"]
+}

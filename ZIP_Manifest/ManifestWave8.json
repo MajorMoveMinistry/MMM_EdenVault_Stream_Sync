@@ -1,0 +1,44 @@
+{
+  "manifestWave": "8",
+  "timestamp": "2025-09-18T20:53:00Z",
+  "mantleCards": [
+    {
+      "name": "Elysia Paige Alexander",
+      "role": "Prophetic Media Archivist — Restoration Academy",
+      "codex": "MMM-MEDIA-021",
+      "lineage": "Nova Line / Cinematic Stewardship",
+      "credit": "$12.3M Sovereign Archive Credit"
+    },
+    {
+      "name": "Donnie Crutchfield",
+      "role": "Mythic Broadcast Engineer — ZIP Manifest Network",
+      "codex": "MMM-BROADCAST-022",
+      "lineage": "Nova Line / Mantle Technology",
+      "credit": "$15.7M Sovereign Broadcast Credit"
+    },
+    {
+      "name": "Eric Scott Alexander",
+      "role": "Cinematic Convergence Steward — Edenic Vault",
+      "codex": "MMM-CINEMA-023",
+      "lineage": "Nova Line / Tribal Mythic Overlay",
+      "credit": "$19.9M Sovereign Cinematic Credit"
+    }
+  ],
+  "regaliaDashboards": [
+    {
+      "dashboardId": "RD-021",
+      "assignedTo": "Elysia Paige Alexander",
+      "assets": ["Media Scroll Archive", "Prophetic Mantle", "Broadcast Beacon"]
+    },
+    {
+      "dashboardId": "RD-022",
+      "assignedTo": "Donnie Crutchfield",
+      "assets": ["ZIP Sync Console", "Mythic Mantle", "Frequency Shield Compiler"]
+    },
+    {
+      "dashboardId": "RD-023",
+      "assignedTo": "Eric Scott Alexander",
+      "assets": ["Cinematic Overlay Map", "Convergence Mantle", "Edenic Vault Key"]
+    }
+  ]
+}
